@@ -11,16 +11,40 @@ transcribe the environment to the user".
 
 ![image](https://user-images.githubusercontent.com/104011562/233152904-8bf72270-7194-499a-96d4-f7d76c310171.png)
 
-### First Part : How to capture the environement around the user ?
+In the right a of the image there is the "capture" part and in the left there is the "transcribe to the user" part.
+
+## How to capture the environement around the user ?
 
 I will let my friend explain his work
 
-### Second Part : How to transcribe the environment to the user ?
+## How to transcribe the environment to the user ?
 
 As it can be seen on [Youtube](https://www.youtube.com/watch?v=8Au47gnXs0w&t=751s) this device answer clearly to the problem so i challeng me to do it myself
 
 1. The mechanical part 
-2. The electronical part
+
+![image](https://user-images.githubusercontent.com/104011562/233153959-5646e358-56e5-452c-8b8d-ed4c711a51c4.png)
+
+This shows how the first part works. What we have to understand is :
+ - if the two motor turn the body will also turn.
+ - if the motor 2 turn the body will translate.
+ With this you can control the position of all the cams.
+ 
+![image](https://user-images.githubusercontent.com/104011562/233154182-73125c4a-a232-4e36-925a-6fbe00bd30ca.png)
+
+Now we have see how the cames are controled, it is time to understant how we can control the state off all the axis.
+The proces is to liberate the purple "" with the purple cames by turning the "Cames Body" and at the same time translate the "Cames Body" to select the desired cames the GREEN, ORANGE and RED ones.
+
+![image](https://user-images.githubusercontent.com/104011562/233156006-d698e286-2098-46bc-b8c9-ae004bfa967d.png)
+![image](https://user-images.githubusercontent.com/104011562/233156472-4a5b44ed-7ac3-4e1b-8f9d-28c5ae2776a2.png)
+![image](https://user-images.githubusercontent.com/104011562/233156151-20a98e07-8b20-4391-935e-1860f5e5b1fc.png)
+
+
+3. The electronical part
+
+![image](https://user-images.githubusercontent.com/104011562/233156635-ef0a69c6-36e2-47da-94d3-ca862e793e2d.png)
+![image](https://user-images.githubusercontent.com/104011562/233156736-9b3d91e0-7ec5-4ea2-b670-b066420bb09c.png)
+
 
 
 
