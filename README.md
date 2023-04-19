@@ -9,6 +9,8 @@ How to recreate a vision for the imperaid peaple with his valid sens ?
 To answer this problem we can separate the project in two part on for the on "How to capture the environement around the user." and an another "How to 
 transcribe the environment to the user".
 
+![image](https://user-images.githubusercontent.com/104011562/233152904-8bf72270-7194-499a-96d4-f7d76c310171.png)
+
 ### First Part : How to capture the environement around the user ?
 
 I will let my friend explain his work
@@ -20,7 +22,7 @@ As it can be seen on [Youtube](https://www.youtube.com/watch?v=8Au47gnXs0w&t=751
 1. The mechanical part 
 2. The electronical part
 
-![image](https://user-images.githubusercontent.com/104011562/233152904-8bf72270-7194-499a-96d4-f7d76c310171.png)
+
 
 
 
