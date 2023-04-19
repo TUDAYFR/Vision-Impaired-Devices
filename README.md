@@ -1,4 +1,8 @@
 # Vision-Impaired-Devices
+
+## Intro
+Visually impaired individuals need devices to help them navigate safely and gain more independence. White canes, guide dogs, mobile apps, GPS navigation systems, and proximity sensors can all be useful tools to assist them in navigating safely and gaining independence.
+
 This project have to answer to the next question :
 How to recreate a vision for the imperaid peaple with his valid sens ?
 
@@ -17,6 +21,6 @@ As it can be seen on [Youtube](https://www.youtube.com/watch?v=8Au47gnXs0w&t=751
 2. The electronical part
 
 
-Enjoy Coding ❤
+
 
 
