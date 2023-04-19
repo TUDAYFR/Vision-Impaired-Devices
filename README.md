@@ -20,6 +20,7 @@ As it can be seen on [Youtube](https://www.youtube.com/watch?v=8Au47gnXs0w&t=751
 1. The mechanical part 
 2. The electronical part
 
+![image](https://user-images.githubusercontent.com/104011562/233152904-8bf72270-7194-499a-96d4-f7d76c310171.png)
 
 
 
