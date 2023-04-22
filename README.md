@@ -33,14 +33,23 @@ This shows how the first part works. What we have to understand is :
 ![image](https://user-images.githubusercontent.com/104011562/233154182-73125c4a-a232-4e36-925a-6fbe00bd30ca.png)
 
 Now we have see how the cames are controled, it is time to understant how we can control the state off all the axis.
-The proces is to liberate the purple "" with the purple cames by turning the "Cames Body" and at the same time translate the "Cames Body" to select the desired cames the GREEN, ORANGE and RED ones.
+The proces is to liberate the purple "axis" with the purple cames by turning the "Cames Body" and at the same time translate the "Cames Body" to select the desired cames the GREEN, ORANGE and RED ones to actuate the blue axis.
+
+
+So now that the idea of the mecanism is fixe i have desined pieces to make these laison.
 
 ![image](https://user-images.githubusercontent.com/104011562/233156006-d698e286-2098-46bc-b8c9-ae004bfa967d.png)
+
+this body is the cams body where all the cams rotate to actuate all the axis.
+
 ![image](https://user-images.githubusercontent.com/104011562/233156472-4a5b44ed-7ac3-4e1b-8f9d-28c5ae2776a2.png)
+
+and this is all the 9 axis actuator.
+
 ![image](https://user-images.githubusercontent.com/104011562/233156151-20a98e07-8b20-4391-935e-1860f5e5b1fc.png)
+And here the full system with the two step motors.
 
-
-3. The electronical part
+2. The electronical part
 
 ![image](https://user-images.githubusercontent.com/104011562/233156635-ef0a69c6-36e2-47da-94d3-ca862e793e2d.png)
 ![image](https://user-images.githubusercontent.com/104011562/233156736-9b3d91e0-7ec5-4ea2-b670-b066420bb09c.png)
