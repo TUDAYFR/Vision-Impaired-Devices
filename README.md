@@ -19,22 +19,21 @@ I will let my friend explain his work
 
 ## How to transcribe the environment to the user ?
 
-As it can be seen on [Youtube](https://www.youtube.com/watch?v=8Au47gnXs0w&t=751s) this device answer clearly to the problem so i challeng me to do it myself
+As shown on YouTube, [Youtube](https://www.youtube.com/watch?v=8Au47gnXs0w&t=751s) this device provides a clear answer to the problem. So, I challenged myself to build 
 
 ### The mechanical part 
 
 ![image](https://user-images.githubusercontent.com/104011562/233153959-5646e358-56e5-452c-8b8d-ed4c711a51c4.png)
 
-This shows how the first part works. What we have to understand is :
- - if the two motor turn the body will also turn.
- - if the motor 2 turn the body will translate.
- With this you can control the position of all the cams.
+This demonstrates how the first part works. What's important to understand is:
+
+ - When both motors turn, the body will also turn.
+ - When motor 2 turns, the body will translate.
+By knowing this, you can control the position of all the cams.
  
 ![image](https://user-images.githubusercontent.com/104011562/233154182-73125c4a-a232-4e36-925a-6fbe00bd30ca.png)
 
-Now we have see how the cames are controled, it is time to understant how we can control the state off all the axis.
-The proces is to liberate the purple "axis" with the purple cames by turning the "Cames Body" and at the same time translate the "Cames Body" to select the desired cames the GREEN, ORANGE and RED ones to actuate the blue axis.
-
+Now that we understand how to control the cams, we need to learn how to position all the axes. This involves selecting the desired cams - the GREEN, ORANGE, and RED ones - by moving the "Cams Body," and then releasing the purple "axis" by turning the "Cams Body" to free up the blue axis.
 
 So now that the idea of the mecanism is fixe i have desined pieces to make these laison.
 
@@ -43,7 +42,7 @@ So now that the idea of the mecanism is fixe i have desined pieces to make these
 this body is the cams body where all the cams rotate to actuate all the axis.
 
 ![image](https://user-images.githubusercontent.com/104011562/233156472-4a5b44ed-7ac3-4e1b-8f9d-28c5ae2776a2.png)
-![image](https://user-images.githubusercontent.com/104011562/233789125-ef8e13d7-4932-4f6a-97ad-a6ef659f3609.png)
+![image](https://user-images.githubusercontent.com/104011562/233790318-3fae29ab-db82-44b8-86be-0f1132740d0a.png)
 
 
 and this is all the 9 axis actuator.
