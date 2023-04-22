@@ -21,7 +21,7 @@ I will let my friend explain his work
 
 As it can be seen on [Youtube](https://www.youtube.com/watch?v=8Au47gnXs0w&t=751s) this device answer clearly to the problem so i challeng me to do it myself
 
-1. The mechanical part 
+### The mechanical part 
 
 ![image](https://user-images.githubusercontent.com/104011562/233153959-5646e358-56e5-452c-8b8d-ed4c711a51c4.png)
 
@@ -51,13 +51,24 @@ and this is all the 9 axis actuator.
 ![image](https://user-images.githubusercontent.com/104011562/233156151-20a98e07-8b20-4391-935e-1860f5e5b1fc.png)
 And here the full system with the two step motors.
 
-2. The electronical part
+### The electronical part
 
 ![image](https://user-images.githubusercontent.com/104011562/233156635-ef0a69c6-36e2-47da-94d3-ca862e793e2d.png)
 ![image](https://user-images.githubusercontent.com/104011562/233156736-9b3d91e0-7ec5-4ea2-b670-b066420bb09c.png)
 
-## Finaly
+### Experiences
+1. Loi E/S simulée python vs résultat de l’expérience 
+![image](https://user-images.githubusercontent.com/104011562/233789351-421c88be-5185-45d6-8b04-e02d3d9345ba.png)
+![image](https://user-images.githubusercontent.com/104011562/233789564-2051d869-8333-4dd4-9c65-cdd2dc5aed8d.png)
+
+
+2. CAO / Expérience :
+![image](https://user-images.githubusercontent.com/104011562/233789397-b7b881c1-2051-454f-bf30-569db2625f41.png)
+![image](https://user-images.githubusercontent.com/104011562/233789588-8421911b-7f96-4794-b2fe-43be9d2f9729.png)
+
+### Finaly
 ![image](https://user-images.githubusercontent.com/104011562/233788835-853165fa-80de-4ed4-a08e-cf7ed33c525e.png)
+![image](https://user-images.githubusercontent.com/104011562/233790218-9c0e78af-db92-4470-9638-81eec8cbb0e1.png)
 
 
 
