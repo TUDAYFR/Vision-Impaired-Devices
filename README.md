@@ -43,6 +43,8 @@ So now that the idea of the mecanism is fixe i have desined pieces to make these
 this body is the cams body where all the cams rotate to actuate all the axis.
 
 ![image](https://user-images.githubusercontent.com/104011562/233156472-4a5b44ed-7ac3-4e1b-8f9d-28c5ae2776a2.png)
+![image](https://user-images.githubusercontent.com/104011562/233789125-ef8e13d7-4932-4f6a-97ad-a6ef659f3609.png)
+
 
 and this is all the 9 axis actuator.
 
