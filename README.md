@@ -54,6 +54,8 @@ And here the full system with the two step motors.
 ![image](https://user-images.githubusercontent.com/104011562/233156635-ef0a69c6-36e2-47da-94d3-ca862e793e2d.png)
 ![image](https://user-images.githubusercontent.com/104011562/233156736-9b3d91e0-7ec5-4ea2-b670-b066420bb09c.png)
 
+## Finaly
+![image](https://user-images.githubusercontent.com/104011562/233788784-2a988754-d468-444f-8407-7537fe596e2d.png)
 
 
 
