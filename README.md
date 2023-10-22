@@ -66,7 +66,8 @@ Here's the full system with the two step motors.
 
 ### Conclusion
 
+In conclusion, this project represents a promising machine with the potential to address the needs of visually impaired individuals. However, it's essential to acknowledge that it demands a substantial amount of work to make it reliable and fully functional.
+
 ![Conclusion](https://user-images.githubusercontent.com/104011562/233788835-853165fa-80de-4ed4-a08e-cf7ed33c525e.png)
 ![Conclusion](https://user-images.githubusercontent.com/104011562/233790218-9c0e78af-db92-4470-9638-81eec8cbb0e1.png)
 
-This revised README provides a more accurate and readable description of the project and its components.
